@@ -1,0 +1,31 @@
+data analysis is just looking at a bunch of raw infomation & turning it into something USEFUL. like finding the story hiding inside the numbers.
+
+the usual steps 
+
+1.
+collect the data (surveys, logs, sales, whatever)
+
+2.
+clean it up — fix errors, fill gaps, remove dupes
+
+3.
+explore it — look for patterns & weird stuff
+
+4.
+analyze — apply stats/math to answer a Question
+
+5.
+interpret — what does this actually mean??
+
+6.
+share it — charts, reports, dashboards
+
+4 types of analysis
+
+— descriptive: "what happened"
+
+— diagnostic: "why did it happen"
+
+— predictive: "what happens next"
+
+— prescriptive: "what should we DO about it"
